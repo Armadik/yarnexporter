@@ -142,6 +142,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-.idea
 yarnexporter.iml
-yarn_exporter.egg-info
+yarn_exporter.egg-info!/.idea/
+/.idea/
