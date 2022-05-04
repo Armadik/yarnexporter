@@ -143,5 +143,5 @@ dmypy.json
 cython_debug/
 
 yarnexporter.iml
-yarn_exporter.egg-info!/.idea/
+yarn_exporter.egg-info
 /.idea/
